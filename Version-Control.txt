@@ -1,0 +1,5 @@
+[Version]
+  Canary=0.1c
+  Dev=
+  Beta=
+  Final=
