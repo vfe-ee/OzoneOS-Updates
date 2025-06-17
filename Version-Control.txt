@@ -1,5 +1,5 @@
 [Version]
-  Unrelease=0.1u
+  Unrelease=17-06-2025 v0.1u
   Canary=
   Dev=
   Beta=
