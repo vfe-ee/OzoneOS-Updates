@@ -1,5 +1,6 @@
 [Version]
-  Canary=0.1c
+  Unrelease=0.1u
+  Canary=
   Dev=
   Beta=
   Final=
