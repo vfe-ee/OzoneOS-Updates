@@ -2,4 +2,5 @@
   Canary=v0.1c
   Dev=
   Beta=
+  FinalPreRelease=
   Final=
